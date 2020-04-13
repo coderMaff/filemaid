@@ -1,0 +1,6 @@
+filemaid to do
+
+DONE Add path to and name of logfile
+DONE Add filename to error message ...moving of %s failed
+DONE Fix date into UK format
+DONE Press v to view logfile
